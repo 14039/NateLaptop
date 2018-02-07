@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\grant\\Downloads\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\grant\\.android\\build-cache\\90054ed22fadb90361fd03d4565220821ecbdfd5\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\Downloads\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\grant\\.android\\build-cache\\b2638ddc51caea6bc709bef3630b54bfb752de95\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\grant\\Downloads\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\grant\\Downloads\\ftc_app-master\\ftc_app-master\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\natew\\Downloads\\robot-code\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\natew\\Downloads\\robot-code\\ftc_app-master\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\natew\\Downloads\\robot-code\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\natew\\.android\\build-cache\\2b9c5bdb11d186df11e5be5359b2631f63187157\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\natew\\Downloads\\robot-code\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\natew\\.android\\build-cache\\463eee6109c005f8f7c8e1c58260aeaeb14b04c1\\output\\res\\menu\\main_menu.xml"
+    }
+]

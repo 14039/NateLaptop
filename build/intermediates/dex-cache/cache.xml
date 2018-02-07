@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\2b9c5bdb11d186df11e5be5359b2631f63187157\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ce86a6340781abf3d876eba190efa34ae92d2f9">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_7f45492c02763a614048a88f530ae7720a6d5249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\libs\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\gson-2.8.0_3b55a948cfc453dc4934b6a13b619aa934996ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\cddc51548772e5fc3bf989aae08a2ba0a94fd43b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7558c70f3b0b473ca494059b37f16ca880ac43fd">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_77ccfcd941312815d5673963cd1eb90c0d91a477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\17a8011a17ebb2e8f3c654ca9088d7e16816b6eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_cf8e8cbcbe65c4de81839bc026441b216bbafcc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d8f95b7b91c8a132c514f5dbe75340305e6883b">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_6fa1a47e44431f73a0a90fb25caf911051acc808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_7cf09cf5fce681d907f308adbd5cb02c2ca0f830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\601ba63e6de2cd0ae38a95e691ff631c641a32a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_9e44a0927e6ec3231afcf7a64391ddccb948b5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\libs\javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\javac_27c2531bc5e8081e844f58ecffd659298f0d1e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\96329156eec580edba26846cb2288f8f32c8a1ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6d1584a392ebfee01efd98e6caaf6a9e5ac51d">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_9f2ffd42771044c0f6fc92f01ae35136e56f275c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\463eee6109c005f8f7c8e1c58260aeaeb14b04c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e444b561b0feba789cac93c5db61f08ef8c25ee6">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_fc00e5ff324d5a83b685ccf11712e8e986b81e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\Downloads\robot-code\ftc_app-master\FtcRobotController\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0c919e219a954111faa31c905d63e0e30c88b6b">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_18d8b6deba1b5f02ea440ea1093ae62599e146a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\libs\gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\gson-extras-0.2.1_eee19db574cc1d239e81c25a8e1d3f78bc660ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\natew\.android\build-cache\196792d6c70c7923122b7f2773b0d6ac420a2009\output\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="C:\Users\natew\Downloads\robot-code\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9be1d47d785719718080baf5f1655c564dbe8ba6.jar" />
+    </item>
+
+</items>
